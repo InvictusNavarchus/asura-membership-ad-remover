@@ -1,7 +1,10 @@
 // ==UserScript==
 // @name         Asura Scans Premium Ad Remover
-// @namespace    http://tampermonkey.net/
-// @version      0.1.0
+// @namespace    https://github.com/InvictusNavarchus/asura-membership-ad-remover
+// @supportURL   https://github.com/InvictusNavarchus/asura-membership-ad-remover
+// @downloadURL  https://raw.githubusercontent.com/InvictusNavarchus/asura-membership-ad-remover/master/asura-membership-ad-remover.user.js
+// @updateURL    https://raw.githubusercontent.com/InvictusNavarchus/asura-membership-ad-remover/master/asura-membership-ad-remover.user.js
+// @version      0.1.1
 // @description  Removes "ASURA+" premium subscription ads from Asura Scans pages.
 // @author       Invictus Navarchus
 // @match        *://*.asuracomic.net/*
