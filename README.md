@@ -35,7 +35,7 @@ The script identifies ad elements by looking for a combination of specific text 
 
 ## Reporting Issues
 
-If you encounter any bugs or find that the ads are not being removed correctly, please [open an issue](https://www.google.com/search?q=https://github.com/your-username/your-repo-name/issues) on this repository.
+If you encounter any bugs or find that the ads are not being removed correctly, please [open an issue](https://github.com/InvictusNavarchus/asura-membership-ad-remover/issues) on this repository.
 
 ## License
 
