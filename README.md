@@ -1,7 +1,3 @@
-Of course. Here is a short, concise, and informative `README.md` for the GitHub repository.
-
------
-
 # Asura Scans Premium Ad Remover
 
 A simple yet robust userscript to remove the "ASURA+" premium subscription advertisements from Asura Scans websites.
